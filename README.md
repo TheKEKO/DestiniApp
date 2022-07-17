@@ -1,2 +1,1 @@
-# DestiniApp
-Application Destini using UIKit
+## Final Application
